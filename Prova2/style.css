@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.cadastro{
+    margin-top: 15%;
+    font-size: 1em;
+    margin-left: 450px;
+    margin-right: 200px;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+}
+
+#bodyInício {
+    background-color: azure;
+}
+
+.Entrada {
+    margin-top: 15%;
+    font-size: 1em;
+    margin-left: 450px;
+    margin-right: 200px;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+}
+
+#bodyLogin {
+    background: radial-gradient(circle, rgb(252, 252, 252) 14%, rgb(0, 0, 0) 100%);
+    margin-top: 15%;
+    font-size: 1em;
+    margin-left: 600px;
+    margin-right: 845px;
+    text-decoration: none;
+
+}
